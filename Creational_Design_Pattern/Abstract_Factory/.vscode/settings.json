@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Abstract Factory/application",
+        "application"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
