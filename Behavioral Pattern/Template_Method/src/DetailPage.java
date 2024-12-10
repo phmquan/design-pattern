@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class DetailPage extends PageTemplate {
 
-public class DetailPage {
+    @Override
+    protected void showBody() {
+        System.out.println("Content of detail");
+    }
 }

@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class HomePage extends PageTemplate {
 
-public class HomePage {
+    @Override
+    protected void showBody() {
+        System.out.println("Content of home page page");
+    }
 }
